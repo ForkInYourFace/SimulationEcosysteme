@@ -8,3 +8,7 @@ Ici, les points verts représentent les plantes, les bleu les herbivores et les 
 * Les plantes se reproduisent sur les cases adjacentes.
 * Les herbivores tuent les plantes pour se nourrir et se reproduire.
 * Les carnivores tuent les herbivores pour se nourrir et se reproduire.
+
+## Contexte
+
+J'ai coder ce petit programme en apprenant le java et plus particulièrement comment créer un interface graphique ave java et ses bibliothèques Awt et Swing.
